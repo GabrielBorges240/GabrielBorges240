@@ -1,10 +1,8 @@
-# GabrielBorges 
-
-#  About Me:
+#   About Me:
  I am a Software Engineering student focused on backend development and Artificial Intelligence applications.<br> I have experience with Python, building REST APIs, and integrating Large Language Models (LLMs) to create practical and scalable solutions.<br> I am currently seeking opportunities to apply my skills in real-world projects and grow as a Backend Developer and AI Engineer.<br><br>
 
 
-##  Socials:
+##   Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gaelborges1?igsh=Y3h5dHBoYmh0eHM0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/gabriel-borges-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com) 
 
 #   Tech Stack:
@@ -15,10 +13,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GabrielBorges240&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##   GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielBorges240&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GabrielBorges240&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
 ###   Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=GabrielBorges240&icon=6&color=2)](https://visitcount.itsvg.in)
