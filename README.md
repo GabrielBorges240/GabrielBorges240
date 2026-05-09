@@ -1,7 +1,10 @@
-# About Me:
-I am a Software Engineering student focused on backend development and Artificial Intelligence applications.<br>
-I have experience with Python, building REST APIs, and integrating Large Language Models (LLMs) to create practical and scalable solutions.<br>
-I am currently seeking opportunities to apply my skills in real-world projects and grow as a Backend Developer and AI Engineer.<br><br>
+## About Me
+
+Software Engineering student focused on backend development and AI-powered applications.
+
+I build REST APIs with Python, develop backend systems with FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
+
+Currently focused on scalable backend architecture, AI integrations, and real-world software projects.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaelborges1)
