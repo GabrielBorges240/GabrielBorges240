@@ -1,3 +1,9 @@
+## headline:
+
+Backend Developer & AI Engineer
+
+Building APIs and AI-powered backend systems with Python.
+
 ## About Me
 
 Software Engineering student focused on backend development and AI-powered applications.
