@@ -18,7 +18,4 @@
 ###   Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=GabrielBorges240&icon=6&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
