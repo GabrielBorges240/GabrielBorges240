@@ -12,7 +12,8 @@ Currently focused on scalable backend architecture, AI integrations, and real-wo
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4c1d95?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-a78bfa?style=for-the-badge&logo=openai&logoColor=111827)
 ![Django](https://img.shields.io/badge/Django-21262d?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -20,4 +21,3 @@ Currently focused on scalable backend architecture, AI integrations, and real-wo
 ![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-484f58?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-484f58?style=for-the-badge&logo=git&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
