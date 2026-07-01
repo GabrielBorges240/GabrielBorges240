@@ -17,7 +17,7 @@ Currently focused on scalable backend architecture, AI integrations, and real-wo
 ![Django](https://img.shields.io/badge/Django-21262d?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-30363d?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-30363d?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 ![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-484f58?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-484f58?style=for-the-badge&logo=git&logoColor=white)
