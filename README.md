@@ -2,7 +2,7 @@
 Backend Developer & AI Engineer
 Building APIs and AI-powered backend systems with Python.
 ## About Me
-Computer-Science student focused on backend development and AI-powered applications.
+Information Technology student focused on backend development and AI-powered applications.
 I build REST APIs with Python, develop backend systems with FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
 Currently focused on scalable backend architecture, AI integrations, and real-world software projects.
 ## Socials:
