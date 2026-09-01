@@ -1,24 +1,45 @@
-## headline:
-Backend Developer & AI Engineer
+# Backend Developer & AI Engineer
+
 Building APIs and AI-powered backend systems with Python.
 
 ## About Me
+
 Information Technology student focused on backend development and AI-powered applications.
+
 I build REST APIs with Python, develop backend systems with FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
-Currently focused on scalable backend architecture, AI integrations, and real-world software projects.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
-[![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
+Currently focused on scalable backend architecture, API development, database integration, AI integrations, and real-world software projects.
 
-# Tech Stack:
+# Tech Stack
+
+### Backend
+
 ![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-21262d?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7c3aed?style=for-the-badge)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-30363d?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-484f58?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-30363d?style=for-the-badge)
+
+### AI & LLM
+
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-7c3aed?style=for-the-badge)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-484f58?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-484f58?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-484f58?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-484f58?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-484f58?style=for-the-badge&logo=postman&logoColor=white)
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
+
+[![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
