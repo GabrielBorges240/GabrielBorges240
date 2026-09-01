@@ -41,5 +41,4 @@ Currently focused on scalable backend architecture, API development, database in
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
-
 [![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
