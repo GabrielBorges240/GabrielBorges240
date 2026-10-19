@@ -41,14 +41,6 @@ Currently studying for the AWS Certified Developer – Associate and looking for
 ![Redis](https://img.shields.io/badge/Redis-30363d?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-30363d?style=for-the-badge)
 
-## GitHub Stats
-
-![](https://github-readme-stats-gabrielborges240s-projects.vercel.app/api?username=GabrielBorges240&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielBorges240&theme=dark&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=c9d1d9)
-
-![](https://github-readme-stats-gabrielborges240s-projects.vercel.app/api/top-langs/?username=GabrielBorges240&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9)
-
 ## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-backend.python-4c1d95?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1111040513370505326)
