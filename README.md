@@ -8,7 +8,7 @@ Information Technology student focused on backend development and AI-powered app
 
 I build REST APIs with Python using FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
 
-Currently studying for the AWS Certified Developer – Associate and looking for a backend internship.
+Studying for the AWS Certified Developer – Associate and building backend projects with Python. Open to backend internship opportunities.
 
 ## Tech Stack
 
