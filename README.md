@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Backend%20Python%20Developer%20%7C%20AI%20Integrations&fontColor=7c3aed&fontSize=34&height=80" alt="Backend Python Developer | AI Integrations" />
+  <img src="header.svg" alt="Backend Python Developer | AI Integrations" />
 </h1>
 
 Building APIs and AI-powered backend systems with Python.
