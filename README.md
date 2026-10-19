@@ -1,4 +1,4 @@
-# Backend Developer & AI Engineer
+# Backend Python Developer | AI Integrations
 
 Building APIs and AI-powered backend systems with Python.
 
@@ -6,11 +6,11 @@ Building APIs and AI-powered backend systems with Python.
 
 Information Technology student focused on backend development and AI-powered applications.
 
-I build REST APIs with Python, develop backend systems with FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
+I build REST APIs with Python using FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
 
-Currently focused on scalable backend architecture, API development, database integration, AI integrations, and real-world software projects.
+Currently studying for the AWS Certified Developer – Associate and looking for a backend internship.
 
-# Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -19,24 +19,27 @@ Currently focused on scalable backend architecture, API development, database in
 ![Django](https://img.shields.io/badge/Django-21262d?style=for-the-badge&logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-7c3aed?style=for-the-badge)
 
-### Databases
+### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-30363d?style=for-the-badge)
 
 ### AI & LLM
 
-![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI_Integration-7c3aed?style=for-the-badge)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-484f58?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-484f58?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-484f58?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-484f58?style=for-the-badge&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-484f58?style=for-the-badge&logo=postman&logoColor=white)
+
+### Currently learning
+
+![Pytest](https://img.shields.io/badge/Pytest-30363d?style=for-the-badge&logo=pytest&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-30363d?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-30363d?style=for-the-badge)
 
 ## GitHub Stats
 
