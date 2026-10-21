@@ -20,7 +20,6 @@ Backend developer in training, building REST APIs with FastAPI and Django and in
 
 ### AI & LLM
 
-![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
