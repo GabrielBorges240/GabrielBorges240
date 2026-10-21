@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="header.svg" alt="Backend Python Developer | AI Integrations" />
 </h1>
-  
+
 ## About Me
 
 Backend developer in training, building REST APIs with FastAPI and Django and integrating LLMs to automate workflows. Preparing for the AWS Certified Developer – Associate. Open to backend internship opportunities.
@@ -11,17 +11,17 @@ Backend developer in training, building REST APIs with FastAPI and Django and in
 ### Backend & AI
 
 ![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-21262d?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-5b21b6?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6d28d9?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-484f58?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-484f58?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-484f58?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-484f58?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-6e7681?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Currently learning
 
@@ -29,5 +29,5 @@ Pytest, Redis, AWS
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
-[![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
+[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
