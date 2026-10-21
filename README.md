@@ -8,7 +8,7 @@ Backend developer in training, building REST APIs with FastAPI and Django and in
 
 ## Tech Stack
 
-### Backend
+### Backend & AI
 
 ![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white)
