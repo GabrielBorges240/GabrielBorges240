@@ -6,6 +6,7 @@
 
 Backend developer in training, building REST APIs with FastAPI and Django and integrating LLMs to automate workflows. Preparing for the AWS Certified Developer – Associate. Open to backend internship opportunities.
 
+
 ## Tech Stack
 
 ### Backend
