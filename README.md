@@ -25,9 +25,7 @@ Backend developer in training, building REST APIs with FastAPI and Django and in
 
 ### Currently learning
 
-![Pytest](https://img.shields.io/badge/Pytest-30363d?style=for-the-badge&logo=pytest&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-30363d?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-30363d?style=for-the-badge)
+Pytest, Redis, AWS
 
 ## Socials
 
