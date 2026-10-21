@@ -1,8 +1,6 @@
 <h1 align="center">
   <img src="header.svg" alt="Backend Python Developer | AI Integrations" />
 </h1>
-
-Building APIs and AI-powered backend systems with Python.
   
 ## About Me
 
