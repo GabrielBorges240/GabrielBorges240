@@ -2,8 +2,9 @@
   <title>Backend Python Developer | AI Integrations</title>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#4c1d95"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
     </linearGradient>
   </defs>
   <text x="450" y="48" text-anchor="middle"
