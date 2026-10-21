@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img">
+  <title>Backend Python Developer | AI Integrations</title>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-     <stop offset="0%" stop-color="#4c1d95"/>
-     <stop offset="100%" stop-color="#7c3aed"/>
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
   </defs>
-  <text x="450" y="58" text-anchor="middle"
+  <text x="450" y="48" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="36" font-weight="700" fill="url(#g)"
-        textLength="840" lengthAdjust="spacingAndGlyphs">Backend Python Developer | AI Integrations</text>
+        font-size="36" font-weight="700" fill="url(#g)">Backend Python Developer | AI Integrations</text>
 </svg>
