@@ -3,14 +3,10 @@
 </h1>
 
 Building APIs and AI-powered backend systems with Python.
-
+  
 ## About Me
 
-Information Technology student focused on backend development and AI-powered applications.
-
-I build REST APIs with Python using FastAPI and Django, and integrate LLMs to create intelligent automation solutions.
-
-Studying for the AWS Certified Developer – Associate and building backend projects with Python. Open to backend internship opportunities.
+Backend developer in training, building REST APIs with FastAPI and Django and integrating LLMs to automate workflows. Preparing for the AWS Certified Developer – Associate. Open to backend internship opportunities.
 
 ## Tech Stack
 
