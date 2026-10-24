@@ -8,11 +8,13 @@ Backend developer in training, building REST APIs with FastAPI and Django and in
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-10002b?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-240046?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3c096c?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5a189a?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-7b2cbf?style=for-the-badge&logo=openai&logoColor=white)
+### Backend & AI
+
+![Python](https://img.shields.io/badge/Python-3a0ca3?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-480ca8?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-560bad?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-560bad?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-7209b7?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
 
@@ -27,5 +29,5 @@ Pytest, Redis, AWS
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3c096c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
-[![Email](https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-borges-dev)
+[![Email](https://img.shields.io/badge/Email-7209b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.borges.dev.ti@gmail.com)
