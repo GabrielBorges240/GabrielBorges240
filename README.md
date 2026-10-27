@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="header.svg" alt="Backend Python Developer | REST APIs" />
+  <img src="header.svg" alt="Backend Python Developer" />
 </h1>
 
 ## About Me
