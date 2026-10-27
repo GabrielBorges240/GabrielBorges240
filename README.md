@@ -24,7 +24,7 @@ IT student focused on backend development with Python. I build REST APIs with Fa
 
 ### Currently learning
 
-Pytest, Redis, AWS
+Pytest, Redis, AWS, LLM integrations
 
 ## Contact
 
