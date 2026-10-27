@@ -17,10 +17,10 @@ IT student focused on backend development with Python. I build REST APIs with Fa
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-30363d?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-30363d?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-30363d?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-484f58?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-6e7681?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Currently learning
 
