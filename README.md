@@ -4,7 +4,7 @@
 
 ## About Me
 
-Backend developer in training, focused on Python. I build REST APIs with FastAPI and Django. Preparing for the AWS Certified Developer – Associate. Open to backend internship opportunities.
+IT student focused on backend development with Python. I build REST APIs with FastAPI and Django. Preparing for the AWS Certified Developer – Associate. Open to backend internship opportunities.
 
 ## Tech Stack
 
